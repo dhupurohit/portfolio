@@ -73,6 +73,6 @@ Contributions are what make the open-source community such an amazing place to l
    Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Dhruvita Purohit - dhupurohit@gmail.com
+Dhruvita Purohit - [Email](mailto:dhupurohit@gmail.com)
 
-Project Link: https://github.com/dhupurohit/portfolio
+Project Link: [https://github.com/dhupurohit/portfolio](https://github.com/dhupurohit/portfolio)
