@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project is a one-page application built with React, showcasing my projects, skills, and experience.
 
 ## Table of Contents
-- [Demo](#demo)
+<!--- [Demo](#demo)-->
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -12,9 +12,9 @@ Welcome to my personal portfolio website! This project is a one-page application
 - [License](#license)
 - [Contact](#contact)
 
-## Demo
+<!--## Demo
 
-You can check out the live demo of the website [here](https://your-website-link.com).
+You can check out the live demo of the website [here](https://your-website-link.com).-->
 
 ## Features
 
@@ -49,16 +49,16 @@ To get a local copy up and running, follow these simple steps:
 
 ## Usage
 To start the development server and view the website locally:
-
-    ```sh
-    npm start
+   ```sh
+   npm start
+   ```
 
 Open http://localhost:3000 to view it in the browser.
 
 To create a production build:
-    
-    ```sh
-    npm run build
+   ```sh
+     npm run build
+   ```
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
